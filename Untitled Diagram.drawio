@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T10:23:15.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="jZm3OpqUl17S0PKOBmuv" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T10:26:42.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="9NMzYTRZN13eumd7dROo" version="13.11.0" type="github">
   <diagram id="VaOqIwYDzZyav0qmfRHP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,14 +34,14 @@
         <mxCell id="x19COVBgYJmnFYbQwka--8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="238" y="213" width="412" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="x19COVBgYJmnFYbQwka--9" value="智能识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x19COVBgYJmnFYbQwka--9" value="智能识别" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="258" y="137" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x19COVBgYJmnFYbQwka--10" value="算法管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="137" width="90" height="50" as="geometry" />
+        <mxCell id="x19COVBgYJmnFYbQwka--10" value="算法管理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="410" y="137" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x19COVBgYJmnFYbQwka--11" value="查询与统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="458" y="137" width="90" height="50" as="geometry" />
+        <mxCell id="x19COVBgYJmnFYbQwka--11" value="查询与统计" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="540" y="137" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x19COVBgYJmnFYbQwka--12" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="258" y="228" width="90" height="50" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry x="453" y="228" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x19COVBgYJmnFYbQwka--15" value="存储管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="268" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="258" y="320" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x19COVBgYJmnFYbQwka--16" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="410" y="320" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x19COVBgYJmnFYbQwka--17" value="计算引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="540" y="320" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x19COVBgYJmnFYbQwka--21" value="系统监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="228" width="90" height="50" as="geometry" />
