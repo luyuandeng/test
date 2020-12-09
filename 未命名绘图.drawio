@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T12:10:47.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="i8mB9W7zl8COAfg9QAkh" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T15:40:07.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6R6aBOLnvr3XbaGILVnx" version="14.0.0" type="github">
   <diagram id="UqwjKa7fOIXqWC75HA_8" name="第 1 页">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,13 +25,18 @@
         <mxCell id="mCgOKQbfE5Heauiv3v_t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.404;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-12" target="mCgOKQbfE5Heauiv3v_t-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mCgOKQbfE5Heauiv3v_t-17">
+          <mxGeometry x="-0.588" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mCgOKQbfE5Heauiv3v_t-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mCgOKQbfE5Heauiv3v_t-12" value="OCR识别接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="390" width="200" height="100" as="geometry" />
+          <mxGeometry x="510" y="440" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mCgOKQbfE5Heauiv3v_t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-13" target="mCgOKQbfE5Heauiv3v_t-27">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +55,7 @@
         <mxCell id="mCgOKQbfE5Heauiv3v_t-24" value="app应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCgOKQbfE5Heauiv3v_t-25" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-25" value="柜面 pc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mCgOKQbfE5Heauiv3v_t-26" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
