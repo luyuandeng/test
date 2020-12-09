@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T07:25:54.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="R8i6rb-mPT9P4wtYwIgS" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T09:58:32.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="j9ioUQlDHDfOJ9IN5UwF" version="13.11.0" type="github">
   <diagram id="VaOqIwYDzZyav0qmfRHP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="x19COVBgYJmnFYbQwka--10" value="算法管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="147" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x19COVBgYJmnFYbQwka--11" value="记录查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x19COVBgYJmnFYbQwka--11" value="查询与统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="147" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x19COVBgYJmnFYbQwka--12" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
