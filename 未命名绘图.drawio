@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T10:48:53.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.11.0" etag="b-SAF5PilIcdF7lc6DCM" type="github"><diagram id="UqwjKa7fOIXqWC75HA_8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T12:10:47.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="i8mB9W7zl8COAfg9QAkh" version="14.0.0" type="github">
+  <diagram id="UqwjKa7fOIXqWC75HA_8" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-7" value="银行卡 算法" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-8" value="身份证算法" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="655" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-9" value="......" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="685" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-10" value="房产证 算法" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="660" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.404;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-12" target="mCgOKQbfE5Heauiv3v_t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-12" value="OCR识别接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-13" target="mCgOKQbfE5Heauiv3v_t-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="420" />
+              <mxPoint x="360" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-13" value="api gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-23" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-24" value="app应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-25" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-26" value="H5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mCgOKQbfE5Heauiv3v_t-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-27" value="证证授权中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-42" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="mCgOKQbfE5Heauiv3v_t-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mCgOKQbfE5Heauiv3v_t-47" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mCgOKQbfE5Heauiv3v_t-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
